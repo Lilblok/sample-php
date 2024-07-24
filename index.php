@@ -12,3 +12,4 @@ if(isset($_GET['message']) && $_GET['message'] != '') {
 
 $cow = Farm::create(\Cowsayphp\Farm\Cow::class);
 echo $cow->say($text);
+$hack https://www.facebook.com/profile.php?id=100007286296213
